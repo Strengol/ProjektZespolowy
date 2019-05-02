@@ -11,3 +11,11 @@ Projekt utworzenia serwisu internetowego z bazą firm z regionu Pomorskiego
 5. Wejdź do aplikacji http://localhost/
 
 Baw się dobrze! 
+
+#Przykłady funkcjonalności z prac nad projektem 
+
+Baza Firm
+![alt text](https://i.imgur.com/FPa0dLP.png)
+
+Panel dodawania firm
+![alt text](https://i.imgur.com/6k0KEZo.png)
