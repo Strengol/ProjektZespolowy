@@ -12,7 +12,7 @@ Projekt utworzenia serwisu internetowego z bazą firm z regionu Pomorskiego
 
 Baw się dobrze! 
 
-#Przykłady funkcjonalności z prac nad projektem 
+# Przykłady funkcjonalności z prac nad projektem 
 
 Baza Firm
 ![alt text](https://i.imgur.com/FPa0dLP.png)
