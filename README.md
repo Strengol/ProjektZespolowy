@@ -18,5 +18,8 @@ Baw się dobrze!
 Baza Firm
 ![alt text](https://i.imgur.com/FPa0dLP.png)
 
+Panel logowania
+![alt text](https://i.imgur.com/bvmePwy.png)
+
 Panel dodawania firm
 ![alt text](https://i.imgur.com/6k0KEZo.png)
