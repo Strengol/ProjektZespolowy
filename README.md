@@ -1,5 +1,6 @@
 # ProjektZespolowy
 ====================================
+
 Projekt utworzenia serwisu internetowego z bazą firm z regionu Pomorskiego
 
 
